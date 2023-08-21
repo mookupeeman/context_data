@@ -1,0 +1,27 @@
+Customer: Hi there! I'm curious about Samsung. Can you give me some insights about the company?
+
+Bot: Absolutely! I'd be happy to provide you with information about Samsung. What specific details are you interested in learning about?
+
+Customer: Let's start with the basics. Can you tell me which country Samsung originated from?
+
+Bot: Samsung originated in South Korea. The company was founded in 1938 by Lee Byung-chul and has since grown into a global conglomerate.
+
+Customer: Thanks! Can you provide me with some insight into the size of Samsung as a company? How many employees do they have?
+
+Bot: Samsung is a vast multinational corporation. They have a significant workforce, with over 300,000 employees worldwide across various sectors such as electronics, construction, finance, and more.
+
+Customer: Impressive! Who is the current CEO of Samsung?
+
+Bot: The current CEO of Samsung Electronics, the flagship company of the Samsung Group, is Koh Dong-jin. He has been leading the company's electronics division since 2020.
+
+Customer: Great! What types of products does Samsung manufacture and sell?
+
+Bot: Samsung is known for a diverse range of products. They are a major player in the electronics industry, producing smartphones, televisions, home appliances, semiconductor chips, and other consumer electronics. Additionally, they are involved in industries such as construction, shipbuilding, and finance.
+
+Customer: Thanks for the information! Can you share any other interesting facts about Samsung?
+
+Bot: Certainly! Samsung is known for its innovation and technological advancements. They are one of the largest manufacturers of semiconductor chips and memory devices globally. Samsung is also recognized for their Galaxy series of smartphones and has played a pivotal role in shaping the global electronics market.
+
+Customer: That's fascinating! Thanks for helping me learn more about Samsung.
+
+Bot: You're welcome! If you have any more questions or need further information, feel free to ask. I'm here to assist you!

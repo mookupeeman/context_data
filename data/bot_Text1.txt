@@ -1,0 +1,27 @@
+Customer: Hi there! I'd like to know more about Apple Inc. Can you provide me with some information?
+
+Bot: Certainly! I'd be happy to help you learn more about Apple Inc. What specific details are you interested in knowing?
+
+Customer: I'd like to start with the basics. Can you tell me which country Apple originated from?
+
+Bot: Apple Inc. originated in the United States. Its headquarters is located in Cupertino, California.
+
+Customer: Thanks! Can you provide some insight into the size of Apple as a company? How many employees do they have?
+
+Bot: Apple is a substantial company with a global presence. They have over 150,000 employees worldwide, working across various functions such as engineering, design, marketing, and more.
+
+Customer: Impressive! Who is the current CEO of Apple Inc.?
+
+Bot: The current CEO of Apple Inc. is Tim Cook. He took over the position from Steve Jobs in 2011 and has been leading the company since then.
+
+Customer: Great! What kind of products does Apple sell? I'm familiar with their devices, but I'd like to know more.
+
+Bot: Apple is known for a wide range of products and services. They design and manufacture consumer electronics like iPhones, iPads, MacBooks, and Apple Watches. Additionally, they offer software services like iOS and macOS operating systems, the App Store, iCloud, Apple Music, and more.
+
+Customer: Thanks for the information! Is there anything else interesting about Apple that you can share?
+
+Bot: Absolutely! Apple is also recognized for its emphasis on design, user experience, and innovation. The company has a history of introducing groundbreaking products that have had a significant impact on various industries.
+
+Customer: That's fascinating! Thanks for helping me learn more about Apple Inc.
+
+Bot: You're welcome! If you have any more questions or need further information, feel free to ask. I'm here to assist you!
